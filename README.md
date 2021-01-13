@@ -13,3 +13,11 @@
 ## Print Settings
 
 Not very fussy. You need to be able to bridge 12mm if you don't want to print with supports, so keep that in mind. It looks nice with 0.17mm layers, 2 solid bottom layers and  3 solid top top outline layers, and 20% infill. This is the process set up in `pi_undershelf.factory`. The settings in there should be fine for most PLA.
+
+## Images
+
+![Mounted](/img/mounted.jpg)
+
+![Top](/img/top.jpg)
+
+![Back](/img/back.jpg)
